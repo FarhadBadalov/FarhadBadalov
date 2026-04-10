@@ -83,7 +83,7 @@
 
 ## 🎒 Образование
 [<img src="/diploma-with-number_ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/refs/heads/main/diploma-with-number_ru.png)
-[<img src="/Certificate.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/FarhadBadalov/FarhadBadalov/refs/heads/main/Certificate.png)
+[<img src="/Certificate.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/FarhadBadalov/FarhadBadalov/refs/heads/main/Certificate.png)
 
 <br>
 <br>
